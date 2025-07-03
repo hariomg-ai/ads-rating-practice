@@ -1,0 +1,23 @@
+# Ad Rating Practice - Sample Task Set
+
+## Example 1  
+**Query**: Buy affordable shoes online  
+**Ad**: Sporty Sneakers – 50% Off  
+**Rating**: HIGH  
+**Why?** The ad is relevant and matches commercial search intent.
+
+---
+
+## Example 2  
+**Query**: Best college for BSc in India  
+**Ad**: Instant Loan Approval – Apply Now  
+**Rating**: LOW  
+**Why?** The ad is not relevant to the query.
+
+---
+
+## Example 3  
+**Query**: Order cake for birthday  
+**Ad**: Midnight Cake Delivery in Delhi NCR  
+**Rating**: HIGH  
+**Why?** Local service and commercial intent matched.
