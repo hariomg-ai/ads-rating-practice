@@ -1,0 +1,23 @@
+# Ad Rating Practice - Sample Task Set
+
+## Example 1  
+Query: Buy sports shoes online  
+Ad: 50% off on running shoes – Shop Now  
+Rating: HIGH  
+Why? Ad is highly relevant to user's commercial intent.
+
+---
+
+## Example 2  
+Query: Top Hindi movie songs  
+Ad: Buy Smart TV at 30% off  
+Rating: LOW  
+Why? Ad is irrelevant to the entertainment/search intent.
+
+---
+
+## Example 3  
+Query: Best Cooking Classes in Delhi  
+Ad: Join Cooking Masterclass – Lajpat Nagar, ₹499/month  
+Rating: HIGH  
+Why? Ad matches local and informational-commercial intent.
